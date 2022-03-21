@@ -3,7 +3,7 @@ smart contracts, front-end, and discord bot for a zero knowledge verification se
 
 Check out the Demo:https://zk-keeper-vue-ui.vercel.app/
 
-Add the Discord bot: https://discord.com/api/oauth2/authorize?client_id=951330025699934259&permissions=534992387136&scope=bot
+Add our Discord bot to your channel to start verifying users with NFTs! https://discord.com/api/oauth2/authorize?client_id=951330025699934259&permissions=534992387136&scope=bot
 
 ## TLDR: Prove you own an NFT anonymously and.... profit!
 **How it works:** You stake your NFT in the ZK-NFT contract. The contract will add you to a whitelist. In the contract, a commitment is added to an Incremental Binary Tree which can be verified via Circom based on the Groth16 protocol.
