@@ -2,6 +2,7 @@
 smart contracts, front-end, and discord bot for a zero knowledge verification service
 
 Check out the Demo:https://zk-keeper-vue-ui.vercel.app/
+
 Add the Discord bot: https://discord.com/api/oauth2/authorize?client_id=951330025699934259&permissions=534992387136&scope=bot
 
 ## TLDR: Prove you own an NFT anonymously and.... profit!
