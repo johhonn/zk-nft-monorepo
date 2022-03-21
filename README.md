@@ -13,3 +13,8 @@ Then, you can generate a proof (a cryptographic string) using our frontend. You 
 **Inspiration:** Collab.land had a vulnerability where people were proving they owned NFTs without anonymity. People were hacked because they interacted Discord with their private wallet! The solution is to limit Discord's from directly interacting with wallets
 
 For EthDenver Virtual 3/21/2022
+
+
+TODO:
+- Nullifier (One time use unstake NFT upon use)
+- Generate proof with pure frontend (waiting for Semaphore team to fix zk-keeper chrome extension)
