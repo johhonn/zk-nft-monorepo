@@ -1,7 +1,7 @@
 # zk-nft-monorepo
 smart contracts, front-end, and discord bot for a zero knowledge verification service
 
-Check out the Demo:https://zk-keeper-vue-ui.vercel.app/
+Check out the Demo: https://www.zknft.one/ (must have Metamask extension and Zk-keeper-plugin extension)
 
 Add our Discord bot to your channel to start verifying users with NFTs! https://discord.com/api/oauth2/authorize?client_id=951330025699934259&permissions=534992387136&scope=bot
 
